@@ -15,9 +15,16 @@ This project not only excels in its core objective of precise flight delay predi
 ## oneAPI
 Intel's One API is a revolutionary software toolkit that unifies and streamlines the development of high-performance, data-driven applications across diverse hardware platforms. By providing a single, comprehensive programming model, it enables developers to write code once and deploy it efficiently on CPUs, GPUs, FPGAs, and other accelerators. With a strong focus on performance optimization, One API empowers developers to harness the full potential of heterogeneous computing architectures while simplifying the complexities of cross-platform development. It plays a pivotal role in accelerating applications, improving efficiency, and unlocking new levels of performance for a wide range of computational workloads.
 
-## Comparison of Runtime
+## Comparison of Runtime for classifiers
 
 ![Runtime without sklearnex](assets/classifier.jpeg)
+![Runtime with sklearnex](assets/classifier_sklearnex.jpeg)
+
+
+## Comparison of Runtime for regressors
+
+![Runtime without sklearnex](assets/regressor.jpeg)
+![Runtime with sklearnex](assets/regressor_sklearnex.jpeg)
 
 ## Pre-requisites
 
