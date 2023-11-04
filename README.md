@@ -12,4 +12,5 @@ The integration of Intel's One API, particularly its optimized version of scikit
 
 This project not only excels in its core objective of precise flight delay prediction but also stands as a testament to the transformative impact of Intel's One API and its optimized machine learning libraries. By combining our two-stage machine learning model with Intel's technology, we've elevated the speed and efficiency of our system, offering a comprehensive and powerful solution for flight delay prediction. 🚀
 
-
+## oneAPI
+Intel's One API is a revolutionary software toolkit that unifies and streamlines the development of high-performance, data-driven applications across diverse hardware platforms. By providing a single, comprehensive programming model, it enables developers to write code once and deploy it efficiently on CPUs, GPUs, FPGAs, and other accelerators. With a strong focus on performance optimization, One API empowers developers to harness the full potential of heterogeneous computing architectures while simplifying the complexities of cross-platform development. It plays a pivotal role in accelerating applications, improving efficiency, and unlocking new levels of performance for a wide range of computational workloads.
