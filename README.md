@@ -14,3 +14,16 @@ This project not only excels in its core objective of precise flight delay predi
 
 ## oneAPI
 Intel's One API is a revolutionary software toolkit that unifies and streamlines the development of high-performance, data-driven applications across diverse hardware platforms. By providing a single, comprehensive programming model, it enables developers to write code once and deploy it efficiently on CPUs, GPUs, FPGAs, and other accelerators. With a strong focus on performance optimization, One API empowers developers to harness the full potential of heterogeneous computing architectures while simplifying the complexities of cross-platform development. It plays a pivotal role in accelerating applications, improving efficiency, and unlocking new levels of performance for a wide range of computational workloads.
+
+## Pre-requisites
+
+### Dependencies
+
+Make sure you have the following dependencies installed:
+
+- ℹ️ Sklearnex (Intel-optimized version of scikit-learn)
+- ℹ️ numpy
+- ℹ️ pandas
+- ℹ️ matplotlib
+- ℹ️ seaborn
+- ℹ️ imbalanced-learn (imblearn)
