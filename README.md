@@ -17,6 +17,7 @@ Intel's One API is a revolutionary software toolkit that unifies and streamlines
 
 ## Comparison of Runtime
 
+![Runtime without sklearnex](assets/classifier.jpeg)
 
 ## Pre-requisites
 
